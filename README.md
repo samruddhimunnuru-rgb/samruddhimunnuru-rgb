@@ -73,3 +73,10 @@ A Python API that detects and analyzes bias in textual data.
 
  GitHub: **github.com/samruddhimunnuru-rgb**
 
+##  GitHub Stats
+
+![Samruddhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samruddhimunnuru-rgb&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samruddhimunnuru-rgb&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=samruddhimunnuru-rgb&theme=tokyonight)
