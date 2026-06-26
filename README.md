@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png.jpeg" alt="Banner" width="100%">
+</p>
 Hi , I'm Samruddhi T M
 Information Science Engineering Student | AI/ML Enthusiast | Full-Stack Developer
 
