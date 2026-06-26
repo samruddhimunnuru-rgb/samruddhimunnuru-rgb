@@ -1,4 +1,4 @@
-Hi 👋, I'm Samruddhi T M
+Hi , I'm Samruddhi T M
 Information Science Engineering Student | AI/ML Enthusiast | Full-Stack Developer
 
 
@@ -12,7 +12,7 @@ I'm passionate about building real-world software solutions using Java, Python, 
 
 💡 Passionate about Artificial Intelligence, Machine Learning, and Full-Stack Development
 
-🌱 Currently learning Spring Boot, REST APIs, Advanced Python, and Data Structures & Algorithms
+🌱 Currently learning Spring Boot, REST APIs, Java, Python, and Data Structures & Algorithms
 
 🚀 Always eager to work on innovative projects and continuously improve my skills
 
@@ -40,36 +40,36 @@ Frameworks & Tools
 
 
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🎓 Student Tracker
+###  Student Tracker
 A Java Full-Stack application for managing student records using JSP, Servlets, JDBC, and MySQL.
 
-### 😊 Sentiment Analysis
+###  Sentiment Analysis
 A Python NLP project that classifies customer reviews into positive, negative, and neutral sentiments.
 
-### ❤️ Remote Photoplethysmography
+###  Remote Photoplethysmography
 An AI-powered computer vision project that estimates heart rate from facial videos using Python, OpenCV, and MediaPipe.
 
-### ⚖️ Bias Analyzer API
+###  Bias Analyzer API
 A Python API that detects and analyzes bias in textual data.
 
 
 
-## 🎯 Goals
+##  Goals
 
-- Become a skilled AI & Full-Stack Engineer
+- Become a skilled AI & Data Analyst
 - Build impactful real-world applications
 - Contribute to Open Source
 - Continuously learn and grow as a developer
 
 
 
-## 📫 Connect With Me
+##  Connect With Me
 
-📧 Email: **samruddhimunnuru@gmail.com*
+ Email: **samruddhimunnuru@gmail.com*
 
-💼 LinkedIn: **www.linkedin.com/in/samruddhi-t-m**
+ LinkedIn: **www.linkedin.com/in/samruddhi-t-m**
 
-🌐 GitHub: **github.com/samruddhimunnuru-rgb**
+ GitHub: **github.com/samruddhimunnuru-rgb**
 
